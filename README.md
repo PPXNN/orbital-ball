@@ -121,7 +121,7 @@ This is a game where a player can jump across platforms, avoid balls, and gain s
 
 ### How I use/extend/modify the provided baseline code:
 1. Modifying ball to make it random falling and bouncing side to side.
-2. Modifying paddle to make it able to jump on and make it moving.
+2. Modifying paddle to make it able to jump on and make it move.
 
 ---
 
